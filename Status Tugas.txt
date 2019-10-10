@@ -1,0 +1,16 @@
+    DONE - Anchor 1 - Angka Prima
+    DONE 2 VARIAN - Anchor 2 - Faktor Persekutuan Terbesar
+    DONE - Anchor 3 - Cari Median
+    DONE - Anchor 4 - Cari Modus
+    DONE - Anchor 5 - Ubah Huruf
+    DONE - Anchor 6 - Digit Perkalian Minimum
+    DONE - Anchor 7 - Urutkan Abjad
+    DONE - Anchor 8 - Tukar Ukuran
+    DONE - Anchor 9 - Cek AB
+    DONE - Anchor 10 - Change me
+    DONE - Anchor 11 - Shopping Time!
+    DONE - Anchor 12 - Toko X
+    DONE - Anchor 13 - Deep Sum
+    DONE - Anchor 14 - Naik Angkot
+    DONE - Anchor 15 - Highest Score
+    DONE - Anchor 16 - Graduates
